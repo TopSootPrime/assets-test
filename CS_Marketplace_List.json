@@ -1,0 +1,85 @@
+{
+    "name": "CS Marketplace List",
+    "timestamp": "2021-08-18T00:00:00.000Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "keywords": [
+        "susu",
+        "carbonswap",
+        "marketplace",
+        "finance",
+        "dex",
+        "green",
+        "sustainable"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/susu.svg",
+    "tags": {
+        "ewfmember": {
+            "name": "ewfmember",
+            "description": "Asset of an Energy Web Foundation member"
+        },
+        "green": {
+            "name": "green",
+            "description": "Asset of a project that is completely renewably powered"
+        },
+        "wrapped": {
+            "name": "wrapped",
+            "description": "Assets that are a wrapped version of their original, holding the same value"
+        },
+        "bridged": {
+            "name": "bridged",
+            "description": "Assets that are bridged over from another chain"
+        },
+        "meme": {
+            "name": "meme",
+            "description": "Assets that were created with no specific purpose, for fun"
+        },
+        "native": {
+            "name": "native",
+            "description": "Assets that are native to the Energy Web Chain"
+        }
+    },
+    "type": ["ERC20", "ERC721", "ERC1155"],
+    "indexing": ["none", "sequential"],
+    "assets": [
+        {
+            "chainId": 246,
+            "address": "0x9cd9CAECDC816C3E7123A4F130A91A684D01f4Dc",
+            "display_name": "SUSU",
+            "type": "ERC20",
+            "indexing": "none",
+            "contractURI": "ipfs://QmVENEsnYPPkv6r2RdK38anDMvkVyAUH8Qx2MLubGbnp8H",
+            "tags": [
+                "native",
+                "green"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0xF88735fe03B6D3A8F3cA7eDa166d2E71Dd54452a",
+            "display_name": "CarbonSwap S1 Collection",
+            "type": "ERC1155",
+            "indexing": "sequential",
+            "contractURI": "ipfs://QmUwXsfwVTCKUB87gBc2ZQbB5KrCf3zS5hWVEyGc5xKjQ2",
+            "tags": [
+                "native",
+                "green"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x79BD1e42cA16E7f66f900f01B474901e33839a58",
+            "display_name": "CryptoSoots",
+            "type": "ERC721",
+            "indexing": "sequential",
+            "contractURI": "https://cryptosoots.green/1.json",
+            "tags": [
+                "native",
+                "green"
+            ]
+        }
+    ]
+}
