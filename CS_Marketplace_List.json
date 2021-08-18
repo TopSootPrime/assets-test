@@ -80,6 +80,42 @@
                 "native",
                 "green"
             ]
+        },
+        {
+            "chainId": 73799,
+            "address": "0xFF3e85e33A8Cfc73fe08F437bFAEADFf7C95e285",
+            "display_name": "TestSUSU",
+            "type": "ERC20",
+            "indexing": "none",
+            "contractURI": "ipfs://QmVENEsnYPPkv6r2RdK38anDMvkVyAUH8Qx2MLubGbnp8H",
+            "tags": [
+                "native",
+                "green"
+            ]
+        },
+        {
+            "chainId": 73799,
+            "address": "0x1121D93708cb7E9EE65723efE2a8F115B09947Cc",
+            "display_name": "CarbonSwap S1 Collection",
+            "type": "ERC1155",
+            "indexing": "sequential",
+            "contractURI": "ipfs://QmUwXsfwVTCKUB87gBc2ZQbB5KrCf3zS5hWVEyGc5xKjQ2",
+            "tags": [
+                "native",
+                "green"
+            ]
+        },
+        {
+            "chainId": 73799,
+            "address": "0xAaC72875620818F78AF316d350D2D865413c7beB",
+            "display_name": "CryptoSoots",
+            "type": "ERC721",
+            "indexing": "sequential",
+            "contractURI": "https://cryptosoots.green/1.json",
+            "tags": [
+                "native",
+                "green"
+            ]
         }
     ]
 }
