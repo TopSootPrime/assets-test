@@ -44,7 +44,7 @@
     },
     "types": ["ERC20", "ERC721", "ERC1155"],
     "indexing": ["none", "sequential"],
-    "assets": [
+    "collections": [
         {
             "chainId": 246,
             "address": "0x9cd9CAECDC816C3E7123A4F130A91A684D01f4Dc",
