@@ -42,7 +42,7 @@
             "description": "Assets that are native to the Energy Web Chain"
         }
     },
-    "type": ["ERC20", "ERC721", "ERC1155"],
+    "types": ["ERC20", "ERC721", "ERC1155"],
     "indexing": ["none", "sequential"],
     "assets": [
         {
